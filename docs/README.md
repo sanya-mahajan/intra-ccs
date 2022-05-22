@@ -23,11 +23,11 @@ This would surely reduce the chaos at the shop and helps you save your time as w
 
 # Step for Set Up
 ``` 
- 1. git clone 
+ 1. git clone https://github.com/sanya-mahajan/intra-ccs
 
  2. Change settings.py MYSQL CONFIGURATIONS (name, user, password)
 
- 3.  cd django-crud-ajax-login-register-fileupload
+ 3.  cd intra-ccs
 
  4. pip3 install -r requirements.txt
 
