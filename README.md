@@ -23,11 +23,11 @@ This would surely reduce the chaos at the shop and helps you save your time as w
 
 # Step for Set Up
 ``` 
- 1. git clone https://github.com/sanya-mahajan/intra-ccs
+ 1. git clone 
 
  2. Change settings.py MYSQL CONFIGURATIONS (name, user, password)
 
- 3.  cd intra-ccs
+ 3.  cd django-crud-ajax-login-register-fileupload
 
  4. pip3 install -r requirements.txt
 
@@ -46,8 +46,8 @@ This would surely reduce the chaos at the shop and helps you save your time as w
 ```
 
 
-![SB Admin Preview](https://lh3.googleusercontent.com/r8mD9IYALSIiErr6gvoNoC7cJq82FpnDmHr-FLUET-USCMpUD62UshqgOw-PVb9slu5lTg=s168)
-![SB Admin Preview](https://lh3.googleusercontent.com/HRNGHKmn_U9fiSWn2O356hgLgPk8tgrcNe6d0ARD33xgb-X5WxZe2Pj6SSIig2wHvwgJ=s170)
+![SB Admin Preview](https://github.com/HitakshiHans-4603/interCCS-hackathon/blob/main/ce1.JPG)
+![SB Admin Preview](https://github.com/HitakshiHans-4603/interCCS-hackathon/blob/main/ce2.JPG?raw=true)
 
 ![SB Admin Preview](https://lh3.googleusercontent.com/EYPmI31HT_DSOkHnpWnULNtSmrZL28O77DPR5b96-A3K0a1_NOshfp1_vTBj97q36JdD=s170)
 
