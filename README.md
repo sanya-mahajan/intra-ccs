@@ -22,29 +22,6 @@ This would surely reduce the chaos at the shop and helps you save your time as w
 - 6 . adjusting your print out specifications
 - 7 . net banking 
 
-# Step for Set Up
-``` 
- 1. git clone 
-
- 2. Change settings.py MYSQL CONFIGURATIONS (name, user, password)
-
- 3.  cd django-crud-ajax-login-register-fileupload
-
- 4. pip3 install -r requirements.txt
-
- 5. python3 manage.py migrate
-
- 6. python3 manage.py makemigrations
-
- 7. python3 manage.py migrate
-
- 8. python3 manage.py runserver
-
- 9. Login to http://127.0.0.1:8000
-
- 
-
-```
 
 
 ![SB Admin Preview](https://github.com/HitakshiHans-4603/interCCS-hackathon/blob/main/ce1.JPG)
