@@ -19,7 +19,8 @@ This would surely reduce the chaos at the shop and helps you save your time as w
 - 3 . File Upload
 - 4 . jpg to pdf converter
 - 5 . pdf compresser
-- 6 . net banking 
+- 6 . adjusting your print out specifications
+- 7 . net banking 
 
 # Step for Set Up
 ``` 
